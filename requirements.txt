@@ -1,0 +1,10 @@
+# AI Code Review Assistant Dependencies
+openai>=0.28.0
+
+# Optional: For better CLI experience
+rich>=13.0.0  # For colorful terminal output (optional enhancement)
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
